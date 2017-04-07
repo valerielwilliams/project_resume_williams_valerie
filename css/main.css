@@ -4,6 +4,10 @@ body {
     color: #555555;
 }
 
+address {
+    font-style: normal;
+}
+
 .headings {
     font-family: 'Sanchez', serif;
     color: #1362ad;

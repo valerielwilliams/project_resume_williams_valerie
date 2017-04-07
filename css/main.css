@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    color: #555555;
+}
+
+.headings {
+    font-family: 'Sanchez', serif;
+    color: #1362ad;
+}
+
+h3.headings {
+    font-family: 'Sanchez', serif;
+    color: #88b14b;
+}

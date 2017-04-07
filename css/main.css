@@ -8,6 +8,16 @@ address {
     font-style: normal;
 }
 
+a:link,
+a:visited,
+a:active {
+    color: #88b14b;
+}
+
+a:hover{
+    color: #1362ad;
+}
+
 .headings {
     font-family: 'Sanchez', serif;
     color: #1362ad;

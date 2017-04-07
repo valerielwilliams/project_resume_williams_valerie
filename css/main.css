@@ -51,7 +51,7 @@ h3.headings {
     color: #333333;
 }
 @media (min-width: 400px) {
-    body {
+    #container {
         padding: 1em;
     }
 
@@ -64,27 +64,27 @@ h3.headings {
 }
 
 @media (min-width: 900px) {
-    body {
-        padding: 1em 2em;
+    #container {
+        padding: 1em;
     }
 
     #me {
         position: absolute;
-        top: 1%;
+        top: 2%;
         left: 75%;
         width: 20%;
     }
 }
 
 @media (min-width: 1200px) {
-    body {
-        padding: 1em 4em;
+    #container {
+        padding: 1em;
     }
 
     #me {
         position: absolute;
-        top: 1%;
-        left: 71%;
+        top: 2%;
+        left: 70%;
         width: 10%;
     }
 }

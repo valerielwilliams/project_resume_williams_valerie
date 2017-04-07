@@ -43,6 +43,12 @@ h3.headings {
     color: #88b14b;
 }
 
+#me {
+    position: absolute;
+    top: 1%;
+    left: 35%;
+}
+
 .bold {
     font-weight: bold;
     font-size: 15px;

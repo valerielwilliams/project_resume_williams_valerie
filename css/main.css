@@ -27,3 +27,9 @@ h3.headings {
     font-family: 'Sanchez', serif;
     color: #88b14b;
 }
+
+.bold {
+    font-weight: bold;
+    font-size: 15px;
+    color: #333333;
+}

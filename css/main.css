@@ -57,7 +57,7 @@ h3.headings {
 
     #me {
         position: absolute;
-        top: 3%;
+        top: 1%;
         left: 58%;
         width: 40%;
     }
@@ -65,25 +65,25 @@ h3.headings {
 
 @media (min-width: 900px) {
     body {
-        padding: 2em;
+        padding: 1em 2em;
     }
 
     #me {
         position: absolute;
-        top: 3%;
-        left: 70%;
+        top: 1%;
+        left: 75%;
         width: 20%;
     }
 }
 
 @media (min-width: 1200px) {
     body {
-        padding: 4em;
+        padding: 1em 4em;
     }
 
     #me {
         position: absolute;
-        top: 5%;
+        top: 1%;
         left: 71%;
         width: 10%;
     }

@@ -1,9 +1,9 @@
 $(document).ready(function () {
     $('body').gradientify({
         gradients: [
-            { start: [49, 76, 172], stop: [242, 159, 191] },
-            { start: [255, 103, 69], stop: [240, 154, 241] },
-            { start: [33, 229, 241], stop: [235, 236, 117] }
+            { start: [19, 98, 173], stop: [53, 118, 181] },
+            { start: [0, 128, 128], stop: [51, 160, 160] },
+            { start: [136, 177, 75], stop: [179, 215, 126] }
         ]
     });
 

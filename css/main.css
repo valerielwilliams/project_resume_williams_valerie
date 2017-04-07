@@ -45,7 +45,6 @@ h3.headings {
     color: #88b14b;
 }
 
-
 .bold {
     font-weight: bold;
     font-size: 15px;
@@ -74,5 +73,18 @@ h3.headings {
         top: 3%;
         left: 70%;
         width: 20%;
+    }
+}
+
+@media (min-width: 1200px) {
+    body {
+        padding: 4em;
+    }
+
+    #me {
+        position: absolute;
+        top: 5%;
+        left: 72%;
+        width: 13%;
     }
 }

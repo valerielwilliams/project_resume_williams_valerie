@@ -63,3 +63,16 @@ h3.headings {
         width: 40%;
     }
 }
+
+@media (min-width: 900px) {
+    body {
+        padding: 2em;
+    }
+
+    #me {
+        position: absolute;
+        top: 3%;
+        left: 70%;
+        width: 20%;
+    }
+}

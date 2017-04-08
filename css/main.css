@@ -63,9 +63,9 @@ h3.headings {
 
     #me {
         position: absolute;
-        top: 1%;
-        left: 58%;
-        width: 40%;
+        top: 2%;
+        left: 60%;
+        width: 35%;
     }
 }
 
@@ -76,7 +76,7 @@ h3.headings {
 
     #me {
         position: absolute;
-        top: 2%;
+        top: 1%;
         left: 75%;
         width: 20%;
     }
@@ -89,7 +89,7 @@ h3.headings {
 
     #me {
         position: absolute;
-        top: 2%;
+        top: 1%;
         left: 70%;
         width: 10%;
     }

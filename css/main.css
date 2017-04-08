@@ -50,6 +50,12 @@ h3.headings {
     font-size: 15px;
     color: #333333;
 }
+
+.hireme {
+    font-family: 'Sanchez', serif;
+    color: #88b14b;
+}
+
 @media (min-width: 400px) {
     #container {
         padding: 1em;

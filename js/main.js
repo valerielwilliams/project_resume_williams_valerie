@@ -8,4 +8,9 @@ $(document).ready(function () {
     });
     $('.tooltip').tooltipster();
 
+    $('#name').on('click', function () {
+        $('#name').addClass('hireme').html("I'm Valerie Williams. You should hire me.");
+
+    });
+
 });

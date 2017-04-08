@@ -6,5 +6,6 @@ $(document).ready(function () {
             { start: [136, 177, 75], stop: [179, 215, 126] }
         ]
     });
+    $('.tooltip').tooltipster();
 
 });

@@ -63,9 +63,61 @@ h3.headings {
 
     #me {
         position: absolute;
-        top: 2%;
+        top: 3.5%;
         left: 60%;
         width: 35%;
+    }
+}
+
+@media (min-width: 500px) {
+    #container {
+        padding: 1em;
+    }
+
+    #me {
+        position: absolute;
+        top: 3%;
+        left: 60%;
+        width: 30%;
+    }
+}
+
+@media (min-width: 600px) {
+    #container {
+        padding: 1em;
+    }
+
+    #me {
+        position: absolute;
+        top: 3%;
+        left: 70%;
+        width: 25%;
+    }
+}
+
+@media (min-width: 700px) {
+    #container {
+        padding: 1em;
+    }
+
+    #me {
+        position: absolute;
+        top: 3%;
+        left: 70%;
+        width: 22%;
+    }
+}
+
+@media (min-width: 800px) {
+    #container {
+        padding: 1em;
+    }
+
+    #me {
+        position: absolute;
+        top: 3%;
+        left: 70%;
+        width: 20%;
     }
 }
 
@@ -76,9 +128,35 @@ h3.headings {
 
     #me {
         position: absolute;
-        top: 1%;
+        top: 2.5%;
         left: 75%;
-        width: 20%;
+        width: 18%;
+    }
+}
+
+@media (min-width: 1000px) {
+    #container {
+        padding: 1em;
+    }
+
+    #me {
+        position: absolute;
+        top: 2.5%;
+        left: 75%;
+        width: 16%;
+    }
+}
+
+@media (min-width: 1100px) {
+    #container {
+        padding: 1em;
+    }
+
+    #me {
+        position: absolute;
+        top: 2%;
+        left: 75%;
+        width: 14%;
     }
 }
 
